@@ -1,4 +1,4 @@
-# Web Summarization Application
+# Multilingual Web Summarizer
 
 This web application allows users to input a URL, scrape its content, translate it to English (if necessary), and summarize it using a pre-trained model.
 
